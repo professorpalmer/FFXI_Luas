@@ -4,6 +4,7 @@ A collection of Lua addons and plugins for Final Fantasy XI, supporting both Ash
 
 ## Repository Structure
 ├── Ashita/ # Ashita v4 plugins (.lua files)
+
 └── Windower/ # Windower addons (.lua files)
 
 ## Frameworks
