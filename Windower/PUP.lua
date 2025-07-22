@@ -1,5 +1,5 @@
 -- PUP GearSwap Script
--- Simple, standalone version without Mote dependencies
+-- Simple, standalone version without Mote dependencies developed by Palmer
 
 -- Global settings
 settings = {
