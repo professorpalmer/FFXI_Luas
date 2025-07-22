@@ -1,3 +1,5 @@
+-- Developed by Palmer (Zodiarchy @ Asura)
+
 require('common');
 
 local gear = gFunc.LoadFile('common/gear.lua');
